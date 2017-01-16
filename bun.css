@@ -24,6 +24,13 @@ html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquot
 .w75  { width: 75%; }
 .w99  { width: 99%; }
 
+.fs0-5 { font-size: .5em; }
+.fs1   { font-size: 1em; }
+.fs1-5 { font-size: 1.5em; }
+.fs2   { font-size: 2em; }
+.fs3   { font-size: 3em; }
+.fs5   { font-size: 5em; }
+
 .fRed    { color: #d85555; }
 .fOrange { color: #d89755; }
 .fYellow { color: #d7d855; }
