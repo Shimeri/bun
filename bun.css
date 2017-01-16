@@ -1,0 +1,45 @@
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, menu, nav, section, time, mark, audio, video, details, summary { margin: 0; padding: 0; border: 0; font-size: 100%; font-weight: normal;	vertical-align: baseline; background: transparent; }
+
+.serif { font-family: lustria, serif; }
+.sans  { font-family: carme, sans-serif; }
+
+.m0-5  { margin: .5em; }
+.m1    { margin: 1em; }
+.m1-5  { margin: 1.5em; }
+.m2    { margin: 2em; }
+
+.p0-5  { padding: .5em; }
+.p1    { padding: 1em; }
+.p1-5  { padding: 1.5em; }
+.p2    { padding: 2em; }
+
+.l  { float: left; }
+.c  { margin: auto; }
+.r  { float: right; }
+
+.w25  { width: 25%; }
+.w33  { width: 33%; }
+.w50  { width: 50%; }
+.w66  { width: 66%; }
+.w75  { width: 75%; }
+.w99  { width: 99%; }
+
+.fRed    { color: #d85555; }
+.fOrange { color: #d89755; }
+.fYellow { color: #d7d855; }
+.fGreen  { color: #60d855; }
+.fBlue   { color: #5585d8; }
+.fPurple { color: #9555d8; }
+.fBlack  { color: #0d0d0d; }
+.fGray   { color: #454545; }
+.fWhite  { color: #e5e5e5; }
+
+.bRed    { background: #d85555; }
+.bOrange { background: #d89755; }
+.bYellow { background: #d7d855; }
+.bGreen  { background: #60d855; }
+.bBlue   { background: #5585d8; }
+.bPurple { background: #9555d8; }
+.bBlack  { background: #0d0d0d; }
+.bGray   { background: #454545; }
+.bWhite  { background: #e5e5e5; }
